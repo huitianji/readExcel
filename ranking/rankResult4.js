@@ -1,0 +1,51 @@
+[{
+  "ranking": "1",
+  "name": "韦*",
+  "mobile": "181****2807",
+  "loanAmount": "7"
+}, {
+  "ranking": "2",
+  "name": "李*",
+  "mobile": "137****9433",
+  "loanAmount": "5"
+}, {
+  "ranking": "2",
+  "name": "薛**",
+  "mobile": "185****1383",
+  "loanAmount": "5"
+}, {
+  "ranking": "3",
+  "name": "张**",
+  "mobile": "132****6036",
+  "loanAmount": "4"
+}, {
+  "ranking": "4",
+  "name": "陈**",
+  "mobile": "152****5724",
+  "loanAmount": "3"
+}, {
+  "ranking": "5",
+  "name": "刘**",
+  "mobile": "166****0526",
+  "loanAmount": "2"
+}, {
+  "ranking": "5",
+  "name": "朱**",
+  "mobile": "131****3602",
+  "loanAmount": "2"
+}, {
+  "ranking": "5",
+  "name": "张**",
+  "mobile": "153****4526",
+  "loanAmount": "2"
+}, {
+  "ranking": "5",
+  "name": "和**",
+  "mobile": "152****6232",
+  "loanAmount": "2"
+}, {
+  "ranking": "5",
+  "name": "李**",
+  "mobile": "131****7373",
+  "loanAmount": "2"
+}]
